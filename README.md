@@ -2,8 +2,7 @@
 
 An interactive **Power BI** dashboard that analyzes Apple product pricing, discounts, and sales performance across product categories, sale events, and e-commerce platforms.
 
-![Uploading image.png…]()
-
+![Dashboard Preview](Apple_Dashboard)
 
 ## Overview
 
